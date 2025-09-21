@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Layron 👋
 
-<!--
-**airondave/airondave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an engineer passionate about building web applications.  
+Currently working a lot with **Laravel** and **Vue**, and also exploring **Express.js**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech I’m into
+- **Backend:** Laravel, Express.js  
+- **Frontend:** Vue.js  
+- **Others:** REST APIs, modern web tools  
+
+---
+
+## 🌱 What I’m focusing on
+- Sharpening my skills with Laravel & Vue  
+- Experimenting with Express.js for backend projects  
+
+---
