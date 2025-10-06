@@ -6,9 +6,9 @@ Currently working a lot with **Laravel** and **Vue**, and also exploring **Expre
 ---
 
 ## 🚀 Tech I’m into
-- **Backend:** Laravel, Express.js  
+- **Backend:** Laravel, Express.js, Next.js.
 - **Frontend:** Vue.js  
-- **Others:** REST APIs, modern web tools  
+- **Others:** Expo Go, Android Application Development
 
 ---
 
